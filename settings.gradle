@@ -1,0 +1,12 @@
+pluginManagement {
+    repositories {
+        // Fabric's Maven repo (correct syntax)
+        maven { url = 'https://maven.fabricmc.net/' }
+
+        // Standard plugin repositories
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = 'poofmod'
