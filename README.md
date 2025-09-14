@@ -1,5 +1,5 @@
 # Minecraft: Story mode Poof sound (Fabric 1.20.1) 
 
-this mod aim to put the Poof sound when the mob dies normally 
+This mod aim to play the Minecraft: Story mode poof sound for Fabric 1.20.1 (Hevely inspired by the mod "Poof Sounds" by "V0calgiant12" on curseforge). Should work with any mod with a mob 
 
-(work with evry custom mob from any mod)
+thanks for downloading this mod and enjoy it !!!!
