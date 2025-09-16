@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "storymodepoof",
+  "version": "1.0.0",
+  "name": "Minecraft: Story Mode Poof Sound",
+  "description": "Plays the Minecraft: Story Mode poof sound effect when mobs die with their smoke cloud.",
+  "authors": [
+    "ClosedTheDor"
+  ],
+  "contact": {
+    "sources": "https://github.com/ClosedTheDor/Minecraft-Story-Mode-poof-sound"
+  },
+  "license": "MIT",
+  "icon": "assets/storymodepoof/icon.png",
+  "custom": {
+    "modrinth": {
+      "client_side": "unsupported",
+      "server_side": "required"
+    }
+  },
+  "entrypoints": {
+    "main": [
+      "com.example.storymodepoof.PoofMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "fabric-api": "*",
+    "minecraft": "1.20.1"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "poof1": { "subtitle": "subtitles.storymodepoof.poof1", "sounds": [ "storymodepoof:poof1" ] },
+  "poof2": { "subtitle": "subtitles.storymodepoof.poof2", "sounds": [ "storymodepoof:poof2" ] },
+  "poof3": { "subtitle": "subtitles.storymodepoof.poof3", "sounds": [ "storymodepoof:poof3" ] }
+}
